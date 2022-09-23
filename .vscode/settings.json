@@ -1,0 +1,6 @@
+{
+    "problems.showCurrentInStatus": true,
+    "problems.sortOrder": "severity",
+    "omnisharp.disableMSBuildDiagnosticWarning": true,
+    "angular.disableAutomaticNgcc": true
+}
